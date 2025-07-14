@@ -1,0 +1,14 @@
+{
+    "email": "raunitraj2336@gmail.com",
+    "name": "raunit raj",
+    "rollNo": "12203125",
+    "accessCode": "CZypQK",
+    "clientID": "a1f73126-1ca3-48a7-a5c0-8494823453a3",
+    "clientSecret": "przKupMzJREVDZsJ"
+}
+
+{
+    "token_type": "Bearer",
+    "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJNYXBDbGFpbXMiOnsiYXVkIjoiaHR0cDovLzIwLjI0NC41Ni4xNDQvZXZhbHVhdGlvbi1zZXJ2aWNlIiwiZW1haWwiOiJyYXVuaXRyYWoyMzM2QGdtYWlsLmNvbSIsImV4cCI6MTc1MjQ3MDA1NSwiaWF0IjoxNzUyNDY5MTU1LCJpc3MiOiJBZmZvcmQgTWVkaWNhbCBUZWNobm9sb2dpZXMgUHJpdmF0ZSBMaW1pdGVkIiwianRpIjoiYTgxYmE5NjctYjMzNS00OGY3LWEyYTktYmYzMTE0MjhlOWU2IiwibG9jYWxlIjoiZW4tSU4iLCJuYW1lIjoicmF1bml0IHJhaiIsInN1YiI6ImExZjczMTI2LTFjYTMtNDhhNy1hNWMwLTg0OTQ4MjM0NTNhMyJ9LCJlbWFpbCI6InJhdW5pdHJhajIzMzZAZ21haWwuY29tIiwibmFtZSI6InJhdW5pdCByYWoiLCJyb2xsTm8iOiIxMjIwMzEyNSIsImFjY2Vzc0NvZGUiOiJDWnlwUUsiLCJjbGllbnRJRCI6ImExZjczMTI2LTFjYTMtNDhhNy1hNWMwLTg0OTQ4MjM0NTNhMyIsImNsaWVudFNlY3JldCI6InByekt1cE16SlJFVkRac0oifQ.y5ijY5ktgp9CqGLOhTSWb26g-oav6uF3kbtHJHYjbJk",
+    "expires_in": 1752470055
+}
